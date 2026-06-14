@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Sam and I'm from Italy. I moved to the Netherlands about 5 years ago to pursue my studies, and I've been here ever since. Currently, I'm an
 MSc Data Science & AI Technology student at TU Delft with applied Machine Learning experience across model training, evaluation, dataset construction, and robustness analysis. Strong quantitative and statistical foundation (simulation, stochastic modelling, probability, mathematical ML) with hands-on Python/PyTorch engineering and project exposure to NLP, game-playing AI, and containerised ML deployment. Interested in roles spanning Machine Learning, Data Science, and quantitative/graduate trading.
 
 
