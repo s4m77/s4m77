@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+MSc Data Science & AI Technology student at TU Delft with applied Machine Learning experience across model training, evaluation, dataset construction, and robustness analysis. Strong quantitative and statistical foundation (simulation, stochastic modelling, probability, mathematical ML) with hands-on Python/PyTorch engineering and project exposure to NLP, game-playing AI, and containerised ML deployment. Interested in roles spanning Machine Learning, Data Science, and quantitative/graduate trading.
+
+
 <!--
 **s4m77/s4m77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
